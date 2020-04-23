@@ -1,0 +1,26 @@
+.imgGame{
+  width: 10px;
+ 
+}
+body{
+  background-color:plum;
+}
+h1{
+  color: pink;
+}
+.navbar{
+  display:flex;
+  justify-content:space-around;
+  background-color: indianred 
+}
+.social{
+  display:flex;
+  justify-content:space-between;
+   background-color: indianred 
+}
+p{
+  color:bisque;
+}
+img{
+  width: 200px;
+}
